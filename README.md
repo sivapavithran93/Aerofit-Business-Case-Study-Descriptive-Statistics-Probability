@@ -10,8 +10,8 @@ The primary goal of this analysis is to create comprehensive customer profiles f
 
 ## 📝 Project Report
 
-- You can access the complete project Python file here: [Python](https://github.com/ssgalactic/Business_Case_Study_Aerofit/blob/main/Business_Case_Aerofit_Descriptive_Statistics_%26_Probability_Sabyasachi.ipynb).
-- You can access the complete project in PDF format here: [Report](https://github.com/ssgalactic/Business_Case_Study_Aerofit/blob/main/AerofitCaseStudy_Sabyasachi.pdf).
+- You can access the complete project Python file here: [Python](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability/blob/main/Aerofit%20CaseStudy.ipynb).
+- You can access the complete project in PDF format here: [Report](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability/blob/main/Aerofit%20CaseStudy%20-%20Pavithran.pdf).
 
 ---
 

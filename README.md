@@ -1,4 +1,4 @@
-# 🚴 Aerofit Case Study Analysis: Descriptive Statistics & Probability
+# Aerofit Case Study Analysis: Descriptive Statistics & Probability
 
 ![image](https://github.com/user-attachments/assets/bb1c9ac7-62ce-4a30-a70b-0b3fb0ab2220)
 
@@ -17,7 +17,7 @@ The primary goal of this analysis is to create comprehensive customer profiles f
 
 ## 📚 About Data
 
-The company collected data on individuals who purchased a treadmill from AeroFit stores during three months. The data is available in a single CSV file and includes the following features:
+The company collected data on individuals who purchased a treadmill from AeroFit stores. The data is available in a single CSV file and includes the following features:
 
 ### Product Portfolio
 
